@@ -1,0 +1,37 @@
+body {
+  background-color:;
+}
+
+nav {
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+
+iframe {
+  border-radius: 5px;
+}
+
+img {
+  width: 90px;
+  border-radius: 50%;
+}
+
+.nav-link {
+  padding-left: 80px;
+  font-weight: bold;
+}
+
+#description {
+  font-size: 16px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+#free {
+  font-size: 20px;}
+
+@media (max-width: 400px) {
+  body{
+    background-color: red;
+    color: blue;
+  }
+ }
