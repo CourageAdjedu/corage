@@ -35,3 +35,10 @@ img {
     color: blue;
   }
  }
+
+@@media (max-width: 500px) {
+  iframe{
+    width: 750px;
+    height: 430px;
+  }
+}
