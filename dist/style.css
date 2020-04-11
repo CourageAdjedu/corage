@@ -23,6 +23,11 @@ font-size: 18px;
 
 }
 
+@media only screen and (max-width:320px){
+  .bg3 {
+    width: 200px;
+  }
+}
 
 nav{
   background: rgba(45, 45, 45, 0.8);
