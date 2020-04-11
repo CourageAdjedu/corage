@@ -1,0 +1,66 @@
+body {
+  background: hsl(30, 10%, 96%);
+
+}
+.head{
+  height: 180px;
+  background-image: url("beat.jpg");
+  margin-bottom: ;
+}
+.head img{
+  height: 155px;
+  border-radius: 25px;
+  margin: 15px;
+  opacity: .9;
+}
+
+nav ul li {
+display: inline;
+border-radius: 20px;
+margin-top: 15px;
+font-size: 18px;
+
+
+}
+
+
+nav{
+  background: rgba(45, 45, 45, 0.8);
+  margin-top: 60px;
+
+}
+nav ul li a {
+  color: #fd7e14;
+  font-weight: bold;
+  margin-top: 110px;
+  font-size: 18px;
+}
+.nav-head{
+  margin-left: 130px;
+  color: white;
+}
+nav ul li a:hover  {
+  font-size: 22px;
+}
+
+.nav-item {
+  margin-left: 90px;
+}
+.bg3{
+  height: 380px;
+}
+header{
+  margin-top: 30px;
+  margin-left: 103px;
+  margin-bottom: 33px;
+}
+
+.btn {
+  background-color: orange;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+footer{
+  background: hsla(310, 10%, 90%, 1.1);
+}

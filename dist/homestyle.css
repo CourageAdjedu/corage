@@ -1,0 +1,57 @@
+img{
+  height: 379px;
+}
+
+nav{
+  height: 95px;
+}
+.searchbar{
+  margin-left: 350px;
+  border-radius: 12px;
+  height: 40px;
+}
+nav ul li {
+  display: inline;
+  direction:   rtl;
+  margin-left: 50px;
+  color: white;
+}
+
+.col-7{
+  background-color: grey;
+  margin-top: 50px;
+  border-radius: 6px;
+  filter: drop-shadow(5px 9px 2px #343a40);
+}
+
+.navbar-header img {
+  height: 85px;
+  border-radius: 15px;
+}
+
+#card1{
+  margin-left: 40px;
+  margin-top: 50px;
+  height: 390px;
+  filter: drop-shadow(5px 9px 2px #6c757d);
+}
+h4{
+  margin-top: 80px;
+  height: 390px;
+  padding-left: 20px;
+}
+#card2{
+  margin-top: 60px;
+  height: 390px;
+  filter: drop-shadow(5px 9px 2px #6c757d);
+}
+#h2{
+  margin-top: 80px;
+  height: 390px;
+  padding-left: 20px;
+}
+
+.footer{
+  height: 50px;
+  background-color: black;
+}
